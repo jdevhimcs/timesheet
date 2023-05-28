@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="913px" height="651px" viewBox="0 0 913 651" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path 2</title>
+    <defs>
+        <linearGradient x1="84.1742062%" y1="73.9814962%" x2="22.0671224%" y2="26.0185038%" id="linearGradient-1">
+            <stop stop-color="#123940" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#123940" stop-opacity="0.08" offset="11.397114%"></stop>
+            <stop stop-color="#123940" stop-opacity="0.383987107" offset="31.8082999%"></stop>
+            <stop stop-color="#123940" stop-opacity="0.62" offset="50.0857384%"></stop>
+            <stop stop-color="#123940" stop-opacity="0.823044143" offset="70.0366806%"></stop>
+            <stop stop-color="#123940" offset="100%"></stop>
+            <stop stop-color="#123940" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy" fill="url(#linearGradient-1)">
+            <path d="M0,0 L330.894393,0 C340.850661,53.9478291 410.583073,90.7861011 540.09163,110.514816 C734.354464,140.107888 608.535877,404.408913 767.092273,434.91404 C872.796537,455.250791 930.432446,526.946111 940,650 L0,651 L0,0 Z" id="Path-2"></path>
+        </g>
+    </g>
+</svg>
